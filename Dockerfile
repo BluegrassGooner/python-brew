@@ -26,3 +26,4 @@ RUN pip install pandas==0.24.2
 RUN pip install newsapi-python==0.2.5
 RUN pip install xmltodict==0.12.0
 RUN pip install pytrends==4.6.0
+RUN pip install mysql.connector
