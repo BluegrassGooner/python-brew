@@ -28,3 +28,4 @@ RUN pip install xmltodict==0.12.0
 RUN pip install pytrends==4.6.0
 RUN pip install mysql.connector
 RUN pip install ratelimit
+RUN pip install parsons
