@@ -30,3 +30,4 @@ RUN pip install mysql.connector
 RUN pip install ratelimit
 RUN pip install parsons
 RUN pip install git+https://github.com/bluestatedigital/bsd-api-python
+RUN pip install postgis
