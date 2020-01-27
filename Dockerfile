@@ -31,3 +31,6 @@ RUN pip install ratelimit
 RUN pip install parsons
 RUN pip install git+https://github.com/bluestatedigital/bsd-api-python
 RUN pip install postgis
+RUN pip install google-api-python-client
+RUN pip install google-auth-httplib2
+RUN pip install google-auth-oauthlib
