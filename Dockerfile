@@ -34,3 +34,5 @@ RUN pip install postgis
 RUN pip install google-api-python-client
 RUN pip install google-auth-httplib2
 RUN pip install google-auth-oauthlib
+RUN pip install google-cloud-bigquery==1.28.0
+RUN pip install webdriver-manager
